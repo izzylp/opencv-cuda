@@ -1,1 +1,1 @@
-# opencv-cuda
+# opencv_cuda
